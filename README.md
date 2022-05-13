@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RichMScott
+- 👀 I’m interested in Blockchain Technology
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on any projects and jobs
+- 📫 How to reach me richard.malcolm.scott.99@gmail.com
